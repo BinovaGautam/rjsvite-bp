@@ -1,0 +1,187 @@
+[
+    {
+        "Id": "a1548bf5-6f46-409f-b807-883a20547ee5",
+        "ContentId": "a41b8003-f369-48a4-9dfd-e6b68b85aa44",
+        "Num": 1,
+        "Text": "1. In her backyard, Inesh Chandra found",
+        "ExtraField1": "",
+        "Choices": [
+            {
+                "Id": "6672538f-05f0-4b1b-9633-235b393b049e",
+                "ItemId": "a1548bf5-6f46-409f-b807-883a20547ee5",
+                "ChoiceData": null,
+                "Num": 1,
+                "Text": "a lost dog."
+            },
+            {
+                "Id": "54233bf9-c5cc-4cdc-bb7d-2168dca0f62f",
+                "ItemId": "a1548bf5-6f46-409f-b807-883a20547ee5",
+                "ChoiceData": null,
+                "Num": 2,
+                "Text": "scorched grass."
+            },
+            {
+                "Id": "53164a31-64cd-4ba3-a3a9-13608f9f7e3d",
+                "ItemId": "a1548bf5-6f46-409f-b807-883a20547ee5",
+                "ChoiceData": null,
+                "Num": 3,
+                "Text": "a live power line."
+            },
+            {
+                "Id": "ff2fd558-83c8-41fb-b6ca-3ab29eaba580",
+                "ItemId": "a1548bf5-6f46-409f-b807-883a20547ee5",
+                "ChoiceData": null,
+                "Num": 4,
+                "Text": "several fallen trees."
+            }
+        ]
+    },
+    {
+        "Id": "a2d3622c-7a42-49d7-877c-4dd42e4d82e3",
+        "ContentId": "a41b8003-f369-48a4-9dfd-e6b68b85aa44",
+        "Num": 2,
+        "Text": "2. Chandra's first clue that something was wrong was",
+        "ExtraField1": "",
+        "Choices": [
+            {
+                "Id": "46e4bbfd-63ba-4a4a-9a31-fc8319cf17aa",
+                "ItemId": "a2d3622c-7a42-49d7-877c-4dd42e4d82e3",
+                "ChoiceData": null,
+                "Num": 1,
+                "Text": "her dog's behaviour."
+            },
+            {
+                "Id": "f9c08a7a-8403-4c94-b98d-ed0af53238c8",
+                "ItemId": "a2d3622c-7a42-49d7-877c-4dd42e4d82e3",
+                "ChoiceData": null,
+                "Num": 2,
+                "Text": "a strange smell."
+            },
+            {
+                "Id": "ac98ecb2-83d8-4bb7-820d-4496db5ab4fa",
+                "ItemId": "a2d3622c-7a42-49d7-877c-4dd42e4d82e3",
+                "ChoiceData": null,
+                "Num": 3,
+                "Text": "her dog's barking."
+            },
+            {
+                "Id": "25da8fc3-a877-4d84-b568-f35615c55fda",
+                "ItemId": "a2d3622c-7a42-49d7-877c-4dd42e4d82e3",
+                "ChoiceData": null,
+                "Num": 4,
+                "Text": "a loud noise."
+            }
+        ]
+    },
+    {
+        "Id": "7bfc13ec-8a56-4061-9cc1-a86672f100b5",
+        "ContentId": "a41b8003-f369-48a4-9dfd-e6b68b85aa44",
+        "Num": 3,
+        "Text": "3. Mayor Pine implied that community members will have to",
+        "ExtraField1": "",
+        "Choices": [
+            {
+                "Id": "b85b4866-7986-443d-b1e9-be52eac93c69",
+                "ItemId": "7bfc13ec-8a56-4061-9cc1-a86672f100b5",
+                "ChoiceData": null,
+                "Num": 1,
+                "Text": "continue to deal with such events."
+            },
+            {
+                "Id": "753bcce2-840b-4a63-999b-21c2f9f65259",
+                "ItemId": "7bfc13ec-8a56-4061-9cc1-a86672f100b5",
+                "ChoiceData": null,
+                "Num": 2,
+                "Text": "pay more taxes in the following year."
+            },
+            {
+                "Id": "fa743419-c00a-4aac-bb6a-6abe062b4b0e",
+                "ItemId": "7bfc13ec-8a56-4061-9cc1-a86672f100b5",
+                "ChoiceData": null,
+                "Num": 3,
+                "Text": "cut down the trees on their properties."
+            },
+            {
+                "Id": "f2fbe675-b1f1-45ef-8c18-190c08dd1e36",
+                "ItemId": "7bfc13ec-8a56-4061-9cc1-a86672f100b5",
+                "ChoiceData": null,
+                "Num": 4,
+                "Text": "reduce their electricity use during storms."
+            }
+        ]
+    },
+    {
+        "Id": "00e03357-7f08-47d2-8242-e7941bd029e0",
+        "ContentId": "a41b8003-f369-48a4-9dfd-e6b68b85aa44",
+        "Num": 4,
+        "Text": "4. Mayor Pine's comments suggest that he is",
+        "ExtraField1": "",
+        "Choices": [
+            {
+                "Id": "e3f587ac-cd03-41ad-abfd-6e79fe73bfa7",
+                "ItemId": "00e03357-7f08-47d2-8242-e7941bd029e0",
+                "ChoiceData": null,
+                "Num": 1,
+                "Text": "ashamed of the news that he heard."
+            },
+            {
+                "Id": "651a9432-f532-49d0-8e07-16ccc50f1d1b",
+                "ItemId": "00e03357-7f08-47d2-8242-e7941bd029e0",
+                "ChoiceData": null,
+                "Num": 2,
+                "Text": "aware of the problems and solutions."
+            },
+            {
+                "Id": "d51c6bb1-5622-48c0-a2df-c4dda31c4575",
+                "ItemId": "00e03357-7f08-47d2-8242-e7941bd029e0",
+                "ChoiceData": null,
+                "Num": 3,
+                "Text": "angry about the news that he heard."
+            },
+            {
+                "Id": "56488507-ce94-4dad-8862-2857b1387c88",
+                "ItemId": "00e03357-7f08-47d2-8242-e7941bd029e0",
+                "ChoiceData": null,
+                "Num": 4,
+                "Text": "confused by the problems and solutions."
+            }
+        ]
+    },
+    {
+        "Id": "a3e5b93a-7502-47a0-ac27-3c4761661d3f",
+        "ContentId": "a41b8003-f369-48a4-9dfd-e6b68b85aa44",
+        "Num": 5,
+        "Text": "5. The news item ends with",
+        "ExtraField1": "",
+        "Choices": [
+            {
+                "Id": "b6126d77-c46d-4da3-891a-c391db9534e8",
+                "ItemId": "a3e5b93a-7502-47a0-ac27-3c4761661d3f",
+                "ChoiceData": null,
+                "Num": 1,
+                "Text": "analysis."
+            },
+            {
+                "Id": "feda9d99-2a72-4f83-9044-f3b13a426471",
+                "ItemId": "a3e5b93a-7502-47a0-ac27-3c4761661d3f",
+                "ChoiceData": null,
+                "Num": 2,
+                "Text": "criticism."
+            },
+            {
+                "Id": "71d6fb77-d5ab-4ab5-8c98-1335faad2e47",
+                "ItemId": "a3e5b93a-7502-47a0-ac27-3c4761661d3f",
+                "ChoiceData": null,
+                "Num": 3,
+                "Text": "questions."
+            },
+            {
+                "Id": "a9d4f895-c011-4c5c-a41e-90667fbf313e",
+                "ItemId": "a3e5b93a-7502-47a0-ac27-3c4761661d3f",
+                "ChoiceData": null,
+                "Num": 4,
+                "Text": "instructions."
+            }
+        ]
+    }
+]

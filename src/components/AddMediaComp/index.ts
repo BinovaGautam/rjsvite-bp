@@ -1,0 +1,1 @@
+export {default as AddMediaComp} from "./AddMediaComp";

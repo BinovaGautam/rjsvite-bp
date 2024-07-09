@@ -1,0 +1,7 @@
+export *  from './profile.d'
+export *  from  './components.d'
+export *  from  './prescription.d'
+export * from './mocktest.d'
+export * from './structure.d'
+export * from './testSeries.d'
+export * from './qna.d'

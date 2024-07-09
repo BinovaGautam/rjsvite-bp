@@ -1,0 +1,1 @@
+export { default as InputFactory } from './InputFactory';
